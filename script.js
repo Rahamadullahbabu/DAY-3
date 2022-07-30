@@ -1,4 +1,4 @@
-//Question--1--For the given JSON iterate over all for loop (for,for in)
+//Question--1--For the given JSON  iterate over all for loop (for,for in)
 
 //For
 
@@ -31,7 +31,7 @@ var json = {
     console.log(x + ": "+ me[x])
  }
  
-
+//Qus--2--REsume in JSon format
 
  var resume={
     "Name":"A.Rahamadullah",
